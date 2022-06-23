@@ -31,9 +31,13 @@
         padding-bottom: 130px;
     }
     .area-title-2 h1{
-        font-size: 28px;
+        font-size: 20px;
     }
     .image2 img{
         display: none;
+    }
+    .formulario{
+        padding-right: 300px;
+        width: 100px;
     }
  }
